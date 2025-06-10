@@ -19,7 +19,7 @@ const Main = () => {
   return (
     <div className="flex-1 min-h-screen relative mt-4 md:mt-10 mx-4 md:ml-16 md:mr-5">
       <div className="flex items-center justify-between text-xl md:text-2xl mb-8 md:mb-12">
-        <p className="text-center">Chat Box</p>
+        <p className="text-center"></p>
         <img
           src="https://cdn.pixabay.com/photo/2024/03/15/19/51/ai-generated-8635685_1280.png"
           alt="Profile"
